@@ -1,1 +1,1 @@
-this is the root README
+Git directory README
